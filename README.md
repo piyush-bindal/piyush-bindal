@@ -1,7 +1,7 @@
  <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="850" height="275">
 
 
-# Hi there <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="👋🏻 Waving Hand Sign: Light Skin Tone Emoji" data-noaft="1" style="width: 50px; height: 46px; margin: 0px;"> ,Piyush [here](https://twitter.com/piyushgoyalll)  
+# Hi there <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="👋🏻 Waving Hand Sign: Light Skin Tone Emoji" data-noaft="1" style="width: 50px; height: 46px; margin: 0px;"> ,Bindal here
 
 <!--
 **piyush-bindal/piyush-bindal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
